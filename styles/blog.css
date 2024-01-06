@@ -1,5 +1,13 @@
 div{
     background-color: aquamarine;
     text-align: center;
-    tab-size: 50%;
+    
+}
+div1 p{
+    background-color:aqua;
+    padding: 0%;
+    margin: %;
+}
+button{
+    background-color: fuchsia;
 }
